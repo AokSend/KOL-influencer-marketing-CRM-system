@@ -1,4 +1,4 @@
-# KOL-influencer-marketing-CRM-system
+# 免费的KOL红人营销CRM系统？
 WoKol是基于红人营销管理CRM平台的定位，WoKOL研发了全流程的核心功能，为客户提供更简洁更高效的CRM营销服务。
 <img width="1920" height="889" alt="image" src="https://github.com/user-attachments/assets/6cc28a23-1822-4ca8-a8fc-63fc8a4af237" />
 
